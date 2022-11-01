@@ -1,0 +1,26 @@
+{
+  "name": "token-distributor",
+  "version": "1.0.0",
+  "description": "BlockWit Token Distributor",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockWit/token-distributor"
+  },
+  "author": "BlockWit",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "@types/node": "^17.0.37",
+    "@types/web3": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.6.8",
+    "truffle": "^5.6.3",
+    "truffle-plugin-verify": "^0.5.31",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2",
+    "web3": "^1.8.0"
+  }
+}
